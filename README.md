@@ -1,4 +1,4 @@
-# Entity-Relationshing-and-sales-platform
+
 # 📚 Online Bookstore Database Project
 
 This project is a **relational database schema** designed for an **Online Bookstore Management System**. It is structured to handle the core operations of an e-commerce bookstore, including book listings, customer management, orders, payments, shipping, and wishlists.
