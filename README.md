@@ -14,7 +14,7 @@ This project is a **relational database schema** designed for an **Online Bookst
 - Track **Payments** and their statuses
 - Support **many-to-many relationships** (Books ↔ Authors, Books ↔ Genres)
 
----
+---![image](https://github.com/user-attachments/assets/fd90474c-2eb3-455f-825d-6c1c4b3b4a04)
 
 ## 🗃️ Entity Tables
 
